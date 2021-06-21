@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 My name is Arvind
-- 🔭 I'm a UI/UX Designer
-- **Current Company**: Presentience Technlogies
+- My name is **Arvind Machidi**
+- 😄 Fun fact: I am a **UI/UX Designer**
+- **Current Company**: 💼 Presentience Technlogies Pvt Ltd
+- 
 
 <!--
 **arvindmachidi/arvindmachidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
